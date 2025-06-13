@@ -1,5 +1,5 @@
 # 💫 About Me:
-https://www.canva.com/design/DAGqPb3wq74/gWIWrTb_4S7TpH2E5lUOSw/view?utm_content=DAGqPb3wq74&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h87f9b3e4af<br><br>Hi, I'm Andrei Opulencia<br><br>A Junior Web Developer creating modern web applications.<br><br>🛜 check out my portfolio - https://httpxen-portfolio.netlify.app/<br><br>👨‍💻 junior developer<br><br>💯 passionate about creating modern web applications<br>
+<br><br>Hi, I'm Andrei Opulencia<br><br>A Junior Web Developer creating modern web applications.<br><br>🛜 check out my portfolio - https://httpxen-portfolio.netlify.app/<br><br>👨‍💻 junior developer<br><br>💯 passionate about creating modern web applications<br>
 
 
 ## 🌐 Socials:
