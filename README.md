@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Andrei Opulencia<br><br>A Junior Web Developer creating modern web applications.<br><br>🛜 check out my portfolio - https://httpxen-portfolio.netlify.app/<br><br>👨‍💻 junior developer<br><br>💯 passionate about creating modern web applications
+Hi, I'm Andrei<br><br>A Junior Web Developer creating modern web applications.<br><br>🛜 check out my portfolio - https://httpxen-portfolio.netlify.app/<br><br>👨‍💻 junior developer<br><br>💯 passionate about creating modern web applications
 
 
 ## 🌐 Socials:
