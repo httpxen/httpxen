@@ -1,3 +1,17 @@
+<h1 align="center">✨ Andrei | @httpxen ✨</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/140013113?v=4" width="150" height="150" style="border-radius: 50%;" alt="Andrei Avatar">
+</p>
+<p align="center">
+  <b>Junior Web Developer • Frontend Enthusiast • Code Explorer</b><br>
+  <i>Passionate about building modern, responsive web applications with clean UI and smart code.</i>
+</p>
+<p align="center">
+  <a href="https://httpxen-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square&logo=netlify&logoColor=white">
+  </a>
+</p>
+
 # 💫 About Me:
 Hi, I'm Andrei<br><br>A Junior Web Developer creating modern web applications.<br><br>🛜 check out my portfolio - https://httpxen-portfolio.netlify.app/<br><br>👨‍💻 junior developer<br><br>💯 passionate about creating modern web applications
 
