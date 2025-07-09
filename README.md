@@ -1,12 +1,12 @@
 ![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736b6173736574732e676f6f676c656172676c65636f6d2f68732f706572736f6e616c2d7765622d736974652d696d616765732f636f64696e672e737667)
 
-<h1 align="center">Hi 👋, I'm Git Demo</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Xenon</h1>
+<h3 align="center">Aspiring Software Engineer | Gamer | Tech Explorer</h3>
 
-<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ad1tyapatel&label=Profile%20views&color=0e75b6&style=flat" alt="ad1tyapatel" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
 # 💫 About Me:
