@@ -1,6 +1,6 @@
 <h1 align="center">✨ Andrei | @httpxen ✨</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif/u/140013113?v=4" width="150" height="150" style="border-radius: 50%;" alt="Andrei Avatar">
+  <img src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif" width="150" height="150" style="border-radius: 50%;" alt="Andrei Avatar">
 </p>
 <p align="center">
   <b>Junior Web Developer • Frontend Enthusiast • Code Explorer</b><br>
