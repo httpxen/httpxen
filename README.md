@@ -1,3 +1,11 @@
+![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736b6173736574732e676f6f676c656172676c65636f6d2f68732f706572736f6e616c2d7765622d736974652d696d616765732f636f64696e672e737667)
+
+<img src = "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+
+<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+
+
+
 # 💫 About Me:
 Hi, I'm Andrei<br><br>A Junior Web Developer creating modern web applications.<br><br>🛜 check out my portfolio - https://httpxen-portfolio.netlify.app/<br><br>👨‍💻 junior developer<br><br>💯 passionate about creating modern web applications
 
