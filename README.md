@@ -1,6 +1,6 @@
 <h1 align="center">✨ Andrei | @httpxen ✨</h1>
 <p align="center">
-  <img src="https://files.idyllic.app/files/static/2498296" width="150" height="150" style="border-radius: 50%;" alt="Andrei Avatar">
+  <img src="https://files.idyllic.app/files/static/2498296](https://files.idyllic.app/files/static/2498296" width="150" height="150" style="border-radius: 50%;" alt="Andrei Avatar">
 </p>
 <p align="center">
   <b>Junior Web Developer • Frontend • Back End</b><br>
