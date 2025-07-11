@@ -72,12 +72,6 @@ Here are some projects I'm proud of:
 - **[Portfolio Website](https://httpxen-portfolio.netlify.app/)**  
   A sleek, responsive portfolio showcasing my skills and projects, built with **React**, **TailwindCSS**, and deployed on **Netlify**.
 
-- **[Project Name]**  
-  A brief description of another project, technologies used, and a link to the repo or live demo.
-
-- **[Project Name]**  
-  Another project with a short description, tech stack, and link.
-
 *Check out my [GitHub Repositories](https://github.com/your-github-username?tab=repositories) for more!*
 
 ---
@@ -85,11 +79,9 @@ Here are some projects I'm proud of:
 ## 📬 Get in Touch
 Have a project idea or want to collaborate? Feel free to reach out!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 - 💬 DM me on [LinkedIn](https://linkedin.com/in/tom-andrei-opulencia-1b5b90314/) or [Instagram](https://instagram.com/drei_xen)
 
 ---
-
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=your-github-username&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views" />
   <p><em>Proudly created with ❤️ and a touch of code!</em></p>
