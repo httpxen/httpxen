@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey, I'm Andrei!</h1>
   <p>A passionate <strong>Junior Web Developer</strong> crafting modern, user-friendly web applications with a focus on clean code and sleek design.</p>
-  <a href="https://httpxen-portfolio.netlify.app/" target="_blank">
+  <a href="https://httpxen-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio"/>
   </a>
 </div>
