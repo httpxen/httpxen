@@ -82,7 +82,3 @@ Have a project idea or want to collaborate? Feel free to reach out!
 - 💬 DM me on [LinkedIn](https://linkedin.com/in/tom-andrei-opulencia-1b5b90314/) or [Instagram](https://instagram.com/drei_xen)
 
 ---
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=your-github-username&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views" />
-  <p><em>Proudly created with ❤️ and a touch of code!</em></p>
-</div>
