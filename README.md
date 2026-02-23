@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://i.imgur.com/dWMuAEo.png" target="_blank">
+    <img src="https://i.imgur.com/dWMuAEo.png" alt="banner" />
+  </a>
   <h1>👋 Hey, I'm Andrei!</h1>
   <p>A passionate <strong>Junior Web Developer</strong> crafting modern, user-friendly web applications with a focus on clean code and sleek design.</p>
   <a href="https://httpxen-portfolio.vercel.app/" target="_blank">
