@@ -23,7 +23,6 @@ I'm a **Junior Web Developer** with a knack for building responsive, dynamic, an
 ## 🌐 Connect with Me
 Stay in touch and check out my socials!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drei_xen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tom-andrei-opulencia-1b5b90314/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@drei_xen)
 
