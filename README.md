@@ -1,5 +1,4 @@
-<!-- 
-<div align="center">
+ <div align="center">
   <a href="https://i.imgur.com/dWMuAEo.png" target="_blank">
     <img src="https://i.imgur.com/dWMuAEo.png" alt="banner" />
   </a>
@@ -9,7 +8,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
--->
+
 
 ---
 
